@@ -1,4 +1,4 @@
-李老师，下面是Ptmind的简介，他们公司有一个Hadoop团队。  
+李老师，下面是Ptmind的简介。  
 #<element style="margin:0em 0px 12px; padding:0px; font-family:Microsoft YaHei; font-size:22px; color:rgb(32,136,178); line-height:32px">Ptmind简介</element>
 铂金智慧PtMind是一家互联网数据分析服务商，提供数据的统计、分析、挖掘服务，隶属于北京铂金智慧网络科技有限公司，旗下有产品pt  
  
